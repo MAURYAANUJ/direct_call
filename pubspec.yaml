@@ -1,6 +1,6 @@
 name: flutter_direct_call_plus
 description: "A Flutter plugin for making direct phone calls without opening the dialer."
-version: 0.0.2
+version: 0.0.3
 homepage: "https://github.com/MAURYAANUJ/direct_call.git"
 
 environment:
